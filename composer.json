@@ -1,0 +1,17 @@
+{
+    "name": "uplexa/uplexa-php",
+    "description": "A uPlexa library written in PHP",
+    "keywords": ["uPlexa", "UPX", "uplexad", "uplexa-wallet-rpc", "cryptonote", "JSONRPC", "JSON-RPC", "cryptocurrency"],
+    "homepage": "https://github.com/uplexa/uplexaphp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "uPlexa Team",
+            "email": "uplexa@protonmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    }
+}
